@@ -1,5 +1,3 @@
-Okay, here's a README file tailored for the new `index.js` script you provided, which focuses on video processing through a pipeline of agents.
-
 ```markdown
 # Video Processing Pipeline API
 
